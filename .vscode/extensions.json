@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "msjsdiag.vscode-react-native",
+    "expo.vscode-expo-tools",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens"
+  ]
+}
